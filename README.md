@@ -1,2 +1,3 @@
 # PROYECTOFINAL_MetodosNumericos
-Explicación y código en python de cada método numérico y cada ejercicio tipo KATA.
+¿Qué es un método numérico?
+Los métodos numéricos constituyen técnicas mediante las cuales es posible formular problemas matemáticos, de tal forma que puedan resolverse utilizando operaciones aritmeticas.
